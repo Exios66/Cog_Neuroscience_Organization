@@ -62,4 +62,4 @@ When adding new scripts, please follow these guidelines:
 ### Deployment
 
 - `setup_environment.py`: Set up development environment
-- `deploy_web_app.py`: Deploy web applications to servers 
+- `deploy_web_app.py`: Deploy web applications to servers
