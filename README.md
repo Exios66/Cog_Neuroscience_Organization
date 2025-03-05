@@ -154,26 +154,26 @@ We gratefully acknowledge funding support from the National Institutes of Health
 </p>
 
 Sources
-[1] Aesthetics and Cognitive Science https://plato.stanford.edu/entries/aesthetics-cogsci/
-[2] NeuroBridge: a prototype platform for discovery of the long-tail neuroimaging data https://pmc.ncbi.nlm.nih.gov/articles/PMC10500076/
-[3] List of Markdown badges, no not Discourse badges, those little ... https://meta.discourse.org/t/list-of-markdown-badges-no-not-discourse-badges-those-little-images-that-look-like-flags-on-some-sites/260112
-[4] The Cognitive Neuroscience of Aesthetic Experience https://academic.oup.com/book/39122/chapter/338533185
-[5] Flexible annotation atlas of the mouse brain: combining and dividing brain structures of the Allen Brain Atlas while maintaining anatomical hierarchy https://pmc.ncbi.nlm.nih.gov/articles/PMC7973786/
-[6] ABNN Digital Badges https://abnncertification.org/cnrn/abnn-digital-badges-cnrn
-[7] Neuroaesthetics: The Cognitive Neuroscience of Aesthetic Experience https://pubmed.ncbi.nlm.nih.gov/26993278/
-[8] Whole Mouse Brain Reconstruction and Registration to a Reference Atlas with Standard Histochemical Processing of Coronal Sections https://pmc.ncbi.nlm.nih.gov/articles/PMC6570587/
-[9] Awesome Badges - DEV Community https://dev.to/envoy_/150-badges-for-github-pnk
-[10] [PDF] Psychology of Aesthetics, Creativity, and the Arts https://neuroaesthetics.med.upenn.edu/assets/user-content/documents/publications/2023-36170-001.pdf
-[11] EBRAINS Live Papers - Interactive Resource Sheets for Computational Studies in Neuroscience https://pmc.ncbi.nlm.nih.gov/articles/PMC9931781/
-[12] How to make custom language badges for your profile using shields.io https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
-[13] Research | Penn Center for Neuroaesthetics | Perelman School of ... https://neuroaesthetics.med.upenn.edu/research.html
-[14] Establishment of an optimized and automated workflow for whole brain probing of neuronal activity https://www.biorxiv.org/content/10.1101/2024.09.16.611953v1.full.pdf
-[15] How to display AnyBadge on GitHub README? - Stack Overflow https://stackoverflow.com/questions/68389512/how-to-display-anybadge-on-github-readme
-[16] Neural mechanisms underlying the hierarchical construction of ... https://www.nature.com/articles/s41467-022-35654-y
-[17] SMART: An Open-Source Extension of WholeBrain for Intact Mouse Brain Registration and Segmentation https://pmc.ncbi.nlm.nih.gov/articles/PMC9070730/
-[18] Welcome! Badges 4 README.md Profile - GitHub https://github.com/alexandresanlim/Badges4-README.md-Profile
-[19] Brain and Art: The Neuroscience of Aesthetic Appreciation by Oshin ... https://www.youtube.com/watch?v=Uj_6VbdQnYM
-[20] ️ A list of all profile badges and how to obtain each one 🛡️ - GitHub https://github.com/Thinkright20/Profile-Badges
-[21] NeurIPS 2023 Style Files https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles
-[22] Frontiers | NeuroEditor: a tool to edit and visualize neuronal morphologies https://www.frontiersin.org/journals/neuroanatomy/articles/10.3389/fnana.2024.1342762/full
-[23] Neuroscience Badge - Curiosity Untamed Store https://shop.curiosityuntamed.com/product/neuroscience-badge/
+[1] Aesthetics and Cognitive Science <https://plato.stanford.edu/entries/aesthetics-cogsci/>
+[2] NeuroBridge: a prototype platform for discovery of the long-tail neuroimaging data <https://pmc.ncbi.nlm.nih.gov/articles/PMC10500076/>
+[3] List of Markdown badges, no not Discourse badges, those little ... <https://meta.discourse.org/t/list-of-markdown-badges-no-not-discourse-badges-those-little-images-that-look-like-flags-on-some-sites/260112>
+[4] The Cognitive Neuroscience of Aesthetic Experience <https://academic.oup.com/book/39122/chapter/338533185>
+[5] Flexible annotation atlas of the mouse brain: combining and dividing brain structures of the Allen Brain Atlas while maintaining anatomical hierarchy <https://pmc.ncbi.nlm.nih.gov/articles/PMC7973786/>
+[6] ABNN Digital Badges <https://abnncertification.org/cnrn/abnn-digital-badges-cnrn>
+[7] Neuroaesthetics: The Cognitive Neuroscience of Aesthetic Experience <https://pubmed.ncbi.nlm.nih.gov/26993278/>
+[8] Whole Mouse Brain Reconstruction and Registration to a Reference Atlas with Standard Histochemical Processing of Coronal Sections <https://pmc.ncbi.nlm.nih.gov/articles/PMC6570587/>
+[9] Awesome Badges - DEV Community <https://dev.to/envoy_/150-badges-for-github-pnk>
+[10] [PDF] Psychology of Aesthetics, Creativity, and the Arts <https://neuroaesthetics.med.upenn.edu/assets/user-content/documents/publications/2023-36170-001.pdf>
+[11] EBRAINS Live Papers - Interactive Resource Sheets for Computational Studies in Neuroscience <https://pmc.ncbi.nlm.nih.gov/articles/PMC9931781/>
+[12] How to make custom language badges for your profile using shields.io <https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b>
+[13] Research | Penn Center for Neuroaesthetics | Perelman School of ... <https://neuroaesthetics.med.upenn.edu/research.html>
+[14] Establishment of an optimized and automated workflow for whole brain probing of neuronal activity <https://www.biorxiv.org/content/10.1101/2024.09.16.611953v1.full.pdf>
+[15] How to display AnyBadge on GitHub README? - Stack Overflow <https://stackoverflow.com/questions/68389512/how-to-display-anybadge-on-github-readme>
+[16] Neural mechanisms underlying the hierarchical construction of ... <https://www.nature.com/articles/s41467-022-35654-y>
+[17] SMART: An Open-Source Extension of WholeBrain for Intact Mouse Brain Registration and Segmentation <https://pmc.ncbi.nlm.nih.gov/articles/PMC9070730/>
+[18] Welcome! Badges 4 README.md Profile - GitHub <https://github.com/alexandresanlim/Badges4-README.md-Profile>
+[19] Brain and Art: The Neuroscience of Aesthetic Appreciation by Oshin ... <https://www.youtube.com/watch?v=Uj_6VbdQnYM>
+[20] ️ A list of all profile badges and how to obtain each one 🛡️ - GitHub <https://github.com/Thinkright20/Profile-Badges>
+[21] NeurIPS 2023 Style Files <https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles>
+[22] Frontiers | NeuroEditor: a tool to edit and visualize neuronal morphologies <https://www.frontiersin.org/journals/neuroanatomy/articles/10.3389/fnana.2024.1342762/full>
+[23] Neuroscience Badge - Curiosity Untamed Store <https://shop.curiosityuntamed.com/product/neuroscience-badge/>
