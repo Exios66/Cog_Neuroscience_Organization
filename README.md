@@ -1,4 +1,5 @@
 # Cog_Neuroscience_Organization
+<!-- markdownlint-disable MD033 -->
 
 # <img src="https://img.shields.io/badge/Cognitive-Neuroscience-8A2BE2?style=for-the-badge" height="40"/> Organization Repository
 
