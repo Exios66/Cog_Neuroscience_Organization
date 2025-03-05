@@ -55,12 +55,12 @@ docker run -it fslaccesshub/fsl
 
 SPM (Statistical Parametric Mapping) is a software package designed for the analysis of brain imaging data sequences.
 
-#### Prerequisites
+#### SPM Prerequisites
 
 - MATLAB (version 2014b or later recommended)
 - MATLAB Image Processing Toolbox
 
-#### Installation Steps
+#### SPM Installation
 
 1. Download SPM from the [SPM website](https://www.fil.ion.ucl.ac.uk/spm/software/download/)
 2. Unzip the package into a directory of your choice
@@ -77,7 +77,7 @@ savepath
 spm
 ```
 
-#### Troubleshooting
+#### SPM Troubleshooting
 
 - **Issue**: Missing MEX files
   - **Solution**: Run `spm_make_standalone` in MATLAB to compile MEX files
