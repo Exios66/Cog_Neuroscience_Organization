@@ -1,0 +1,1 @@
+# Core Resources README File
