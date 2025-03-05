@@ -31,4 +31,4 @@ A computational model for understanding aesthetic appreciation based on the inte
 
 ## Starting a New Project
 
-Please see our [project template](link-to-template) and follow the guidelines in the main [CONTRIBUTING.md](../CONTRIBUTING.md) file. 
+Please see our [project template](link-to-template) and follow the guidelines in the main [CONTRIBUTING.md](../CONTRIBUTING.md) file.

@@ -27,4 +27,4 @@ For each publication, we aim to provide:
 
 ## Citation Guidelines
 
-When referencing our work, please use the citation format provided with each publication. For general references to the organization, please cite our [overview paper](link-to-overview-paper). 
+When referencing our work, please use the citation format provided with each publication. For general references to the organization, please cite our [overview paper](link-to-overview-paper).

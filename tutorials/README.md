@@ -36,4 +36,4 @@ Tutorials are provided in multiple formats:
 
 ## Contributing
 
-We welcome contributions of new tutorials or improvements to existing ones. Please see our [tutorial contribution guidelines](../documentation/guides/tutorial_development.md) for more information. 
+We welcome contributions of new tutorials or improvements to existing ones. Please see our [tutorial contribution guidelines](../documentation/guides/tutorial_development.md) for more information.

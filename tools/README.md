@@ -23,4 +23,4 @@ If you're developing a new tool, please follow our [tool development guidelines]
 
 ## Support
 
-For issues with any of the tools, please open an issue in the GitHub repository or contact the tool maintainer directly. 
+For issues with any of the tools, please open an issue in the GitHub repository or contact the tool maintainer directly.
