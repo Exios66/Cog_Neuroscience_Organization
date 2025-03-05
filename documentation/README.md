@@ -36,4 +36,4 @@ pip install mkdocs mkdocs-material
 mkdocs serve
 ```
 
-The documentation will be available at `http://localhost:8000/`. 
+The documentation will be available at `http://localhost:8000/`.

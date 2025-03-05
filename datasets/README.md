@@ -26,4 +26,4 @@ This repository contains small, curated datasets for demonstration and testing p
 
 ## Data Usage Guidelines
 
-Please respect the usage terms of all datasets and cite the original data sources in your publications. For organization-specific data, please refer to our [data sharing policy](../documentation/guides/data_sharing_policy.md). 
+Please respect the usage terms of all datasets and cite the original data sources in your publications. For organization-specific data, please refer to our [data sharing policy](../documentation/guides/data_sharing_policy.md).

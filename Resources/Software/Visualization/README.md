@@ -821,4 +821,4 @@ fig.write_html("interactive_slice.html")
    - Simplify terminology and visualization
    - Provide clear anatomical context
    - Use familiar metaphors and comparisons
-   - Consider interactive formats when possible 
+   - Consider interactive formats when possible

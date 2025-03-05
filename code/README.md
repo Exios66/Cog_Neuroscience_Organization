@@ -63,4 +63,4 @@ fc_matrix = functional_connectivity.compute_correlation_matrix(preprocessed_data
 
 # Visualize the connectivity matrix
 functional_connectivity.plot_matrix(fc_matrix)
-``` 
+```

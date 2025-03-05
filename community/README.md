@@ -33,4 +33,4 @@ All community members are expected to adhere to our [Code of Conduct](../CODE_OF
 
 ## Recognition
 
-We recognize and appreciate all contributions to our community. Contributors are acknowledged in our [CONTRIBUTORS.md](../CONTRIBUTORS.md) file and through our community recognition program. 
+We recognize and appreciate all contributions to our community. Contributors are acknowledged in our [CONTRIBUTORS.md](../CONTRIBUTORS.md) file and through our community recognition program.
