@@ -727,4 +727,4 @@ with tarfile.open(os.path.join(experiment_dir, 'provenance.tar.gz'), 'w:gz') as 
 2. **Conferences with Data Management Focus**
    - Organization for Human Brain Mapping (OHBM)
    - International Conference on Biomedical and Health Informatics
-   - Research Data Alliance (RDA) Plenaries 
+   - Research Data Alliance (RDA) Plenaries

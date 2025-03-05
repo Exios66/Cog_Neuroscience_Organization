@@ -52,4 +52,4 @@ We welcome contributions of new examples! If you have developed an example that 
 ### Statistical Analysis
 
 - `statistical_parametric_mapping.ipynb`: Introduction to SPM analysis
-- `bayesian_analysis.ipynb`: Bayesian approaches to neuroimaging analysis 
+- `bayesian_analysis.ipynb`: Bayesian approaches to neuroimaging analysis

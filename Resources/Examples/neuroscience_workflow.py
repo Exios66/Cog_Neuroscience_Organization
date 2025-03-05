@@ -23,7 +23,7 @@ from pathlib import Path
 # Check if required packages are installed
 try:
     import nilearn
-    from nilearn import datasets, image, plotting, masking, decoding
+    from nilearn import datasets, image, plotting, masking, decoding, surface
     import nibabel as nib
     from sklearn.model_selection import train_test_split
     from sklearn.svm import SVC

@@ -87,4 +87,4 @@ Apply spatial smoothing to neuroimaging data.
 
 ### `_apply_temporal_filtering(data, high_pass=0.01, low_pass=None, **kwargs)`
 
-Apply temporal filtering to neuroimaging data. 
+Apply temporal filtering to neuroimaging data.

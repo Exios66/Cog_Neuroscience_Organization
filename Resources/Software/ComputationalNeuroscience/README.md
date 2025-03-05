@@ -57,6 +57,7 @@ pip install brian2 matplotlib jupyter
 ```
 
 Example Brian2 code:
+
 ```python
 from brian2 import *
 
@@ -617,6 +618,7 @@ plt.show()
 ### Bridging Scales
 
 Recent developments are focused on multi-scale modeling, connecting:
+
 - Molecular dynamics
 - Cellular biophysics
 - Network dynamics
@@ -632,4 +634,4 @@ Recent developments are focused on multi-scale modeling, connecting:
 
 - Model sharing platforms (ModelDB, Open Source Brain)
 - Standardized descriptions (NeuroML, SONATA)
-- Containerization for reproducible environments 
+- Containerization for reproducible environments

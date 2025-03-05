@@ -167,4 +167,4 @@ wf.run()
 
 4. **Prior Knowledge**:
    - Strong hypothesis → Confirmatory analysis, Bayesian methods
-   - Exploratory → Data-driven approaches, dimensionality reduction 
+   - Exploratory → Data-driven approaches, dimensionality reduction
