@@ -598,7 +598,7 @@ plt.show()
 
 - Journal of Computational Neuroscience
 - Neural Computation
-- PLOS Computational Biology
+  - PLOS Computational Biology
 - Frontiers in Computational Neuroscience
 - Computational Brain & Behavior
 - Computational Neuroscience Meeting (CNS)
