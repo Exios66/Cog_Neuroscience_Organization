@@ -119,4 +119,4 @@ This project is licensed under the MIT License - see the [LICENSE](../../LICENSE
 
 - National Institutes of Health for funding support
 - Collaborating neuroimaging repositories for data access
-- Open-source ontology projects for knowledge representation 
+- Open-source ontology projects for knowledge representation
